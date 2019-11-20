@@ -7,15 +7,19 @@ body {
 
 #main-content{
     padding-top:10px;
-    padding-bottom:10px;
     padding-right:0px;
+    padding-bottom:10px;
     padding-left:0px;
-    background-color:white;
+
+    margin-top:15px;
+    margin-right:auto;
+    margin-bottom:;
+    margin-left:auto;
+
+    background-color:fuchsia;
     z-index: 1;
     width:75%;
-    margin-right:auto;
-    margin-left:auto;
-    margin-top: 15px;
+   
     position:fixed;
     left:12.5%;
 }
@@ -24,11 +28,78 @@ h2{
     border-style:solid;
     border-top:0px;
     border-right:0px;
-    border-bottom:3px #cccccc;
+    border-bottom:3px;
     border-left:0px;
-    padding:10px;
+    border-color: #cccccc;
+    background-color:#ffffff;
+
+    
+    padding-top:;
+    padding-right:5px;
+    padding-bottom:;
+    padding-left:5px;
+
+    margin-top:;
+    margin-right:5px;
+    margin-bottom:;
+    margin-left:5px;
+    
 }
 
 #data-boxes {
     padding:10px;
+    background-color:blue;
+    margin-left:10px;
+
+    padding-top:;
+    padding-right:5px;
+    padding-bottom:;
+    padding-left:5px;
+
+    margin-top:;
+    margin-right:5px;
+    margin-bottom:;
+    margin-left:5px;
+/*
+    padding-top:0px;
+    padding-right:0px;
+    padding-bottom:0px;
+    padding-left:10px;
+    margin-top:0px;
+    margin-right:0px;
+    margin-bottom:0px;
+    margin-left:0px;
+    */
+}
+
+#name-label{
+
+}
+
+#name-box {
+    background-color:aqua;
+    width:100%;
+}
+
+#email-label{
+
+}
+
+#email-box {
+    background-color:green;
+    width:100%;
+}
+
+#message-label{
+
+}
+
+#message-box {
+    background-color:purple;
+    width:100%;
+}
+
+p{
+    color:#ffffff;
+    margin-bottom:2px;
 }
