@@ -1,0 +1,23 @@
+body {
+    background:url("rockywall.png");
+    z-index: 0;
+}
+
+#main-content{
+    padding:10px;
+    background-color:white;
+    z-index: 1;
+    width:960px;
+    margin-right:auto;
+    margin-left:auto;
+}
+
+h2{
+    border-style:solid;
+    border-bottom:1px #ffffff;
+    padding:10px;
+}
+
+#data-boxes {
+    padding:10px;
+}

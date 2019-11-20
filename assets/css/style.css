@@ -1,0 +1,29 @@
+.heading {
+    background-color:blue;
+}
+
+h1 {
+    background-color:red;
+}
+
+h2 {
+float:left;
+width:50%;
+background-color:pink;
+}
+
+#page-buttons{
+    float:left;
+    width:50%;
+    background-color:gray;
+}
+
+textarea {
+    float:left;
+    background-color:purple;
+}
+
+footer {
+    float:left;
+    background-color:green;
+}
