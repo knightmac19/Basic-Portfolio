@@ -1,0 +1,48 @@
+header {
+    background-color: #ffffff;
+    width:100%;
+    z-index:1;
+    margin:0, auto;
+    padding-top:20px;
+    
+}
+
+#header-content {
+    width:75%;
+    margin-right:auto;
+    margin-left:auto;
+    background-color: aqua;
+    
+    
+}
+
+#name {
+    background-color: blueviolet;
+    height:40px;
+    width:200px;
+    padding:0,0,0,0;
+    margin:0,0,0,0;
+    
+}
+
+#page-buttons {
+    background-color: chartreuse;
+    height:40px;
+    width:200px;
+    padding:0,0,0,0;
+    margin:0,0,0,0;
+    text-align:center;
+    
+}
+
+#about-link {
+
+}
+
+#portfolio-link {
+
+}
+
+#contact-link {
+
+}
