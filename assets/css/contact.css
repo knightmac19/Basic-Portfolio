@@ -22,7 +22,10 @@ body {
 
 h2{
     border-style:solid;
-    border-bottom:1px #ffffff;
+    border-top:0px;
+    border-right:0px;
+    border-bottom:3px #cccccc;
+    border-left:0px;
     padding:10px;
 }
 
