@@ -1,3 +1,9 @@
+/*
+html{
+    overflow:scroll;
+}
+*/
+
 body {
     background:url("rockywall.png");
     z-index: 0;
@@ -16,12 +22,15 @@ body {
     margin-bottom:;
     margin-left:auto;
 
+    border: 1px solid #dddddd;
+
     background-color:#ffffff;
     z-index: 1;
     width:75%;
    
     position:fixed;
     left:12.5%;
+
 }
 
 h2 {
@@ -50,7 +59,7 @@ h2 {
 }
 
 #data-boxes {
-    background-color:blue;
+    background-color:#ffffff;
 
     padding-top:0px;
     padding-right:0px;
@@ -61,6 +70,9 @@ h2 {
     margin-right:20px;
     margin-bottom:0px;
     margin-left:20px;
+
+    
+
     /*
     padding-top:0px;
     padding-right:0px;
@@ -76,27 +88,35 @@ h2 {
 }
 
 .label {
+    color:#777777;
 
 }
 
 .box {
+    width:100%;
+    color:#777777;
 
 }
 
 #name-box {
-    background-color:aqua;
+    background-color:#ffffff;
 }
 
 
 
 #email-box {
-    background-color:green;
+    background-color:#ffffff;
 }
 
 
 
 #message-box {
-    background-color:purple;
+    background-color:#ffffff;
+    height:80px;
+
+    
+    overflow:auto;
+    
 }
 
 p{
