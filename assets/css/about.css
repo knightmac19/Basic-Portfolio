@@ -4,3 +4,64 @@ body {
     margin:0;
     padding:0;
 }
+
+#main-content{
+    padding-top:10px;
+    padding-right:0px;
+    padding-bottom:10px;
+    padding-left:0px;
+
+    margin-top:15px;
+    margin-right:auto;
+    margin-bottom:;
+    margin-left:auto;
+
+    border: 1px solid #dddddd;
+
+    background-color:#ffffff;
+    z-index: 1;
+    width:75%;
+   
+    position:fixed;
+    left:12.5%;
+
+}
+
+h2 {
+    border-style:solid;
+    border-color:#cccccc;
+    border-top:0px;
+    border-right:0px;
+    border-bottom:;
+    border-left:0px;
+    background-color:#ffffff;
+
+    color:#4aaaa5;
+
+    
+    padding-top:0px;
+    padding-right:0px;
+    padding-bottom:20px;
+    padding-left:0px;
+
+    margin-top:10px;
+    margin-right:20px;
+    margin-bottom:0px;
+    margin-left:20px;
+    
+}
+
+img {
+    height:200px;
+    width:200px;
+
+    padding-top:0px;
+    padding-right:0px;
+    padding-bottom:20px;
+    padding-left:0px;
+
+    margin-top:10px;
+    margin-right:5px;
+    margin-bottom:0px;
+    margin-left:20px;
+}
