@@ -7,4 +7,14 @@
     text-align:center;
     padding-top:10px;
     padding-bottom:10px;
+
+    border-top: 3px solid #4aaaa5;
+    /*
+    border-style:solid;
+    border-color:#4aaaa5;
+    border-top:20px;
+    border-right:0px;
+    border-bottom:0px;
+    border-left:0px;
+    */
 }

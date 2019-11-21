@@ -16,7 +16,7 @@ body {
     margin-bottom:;
     margin-left:auto;
 
-    background-color:fuchsia;
+    background-color:#ffffff;
     z-index: 1;
     width:75%;
    
@@ -24,82 +24,100 @@ body {
     left:12.5%;
 }
 
-h2{
+h2 {
     border-style:solid;
+    border-color:#cccccc;
     border-top:0px;
     border-right:0px;
-    border-bottom:3px;
+    border-bottom:;
     border-left:0px;
-    border-color: #cccccc;
     background-color:#ffffff;
 
-    
-    padding-top:;
-    padding-right:5px;
-    padding-bottom:;
-    padding-left:5px;
+    color:#4aaaa5;
 
-    margin-top:;
-    margin-right:5px;
-    margin-bottom:;
-    margin-left:5px;
+    *
+    padding-top:0px;
+    padding-right:0px;
+    padding-bottom:20px;
+    padding-left:0px;
+
+    margin-top:10px;
+    margin-right:20px;
+    margin-bottom:0px;
+    margin-left:20px;
+    *
     
 }
 
 #data-boxes {
-    padding:10px;
     background-color:blue;
-    margin-left:10px;
 
-    padding-top:;
-    padding-right:5px;
-    padding-bottom:;
-    padding-left:5px;
+    padding-top:0px;
+    padding-right:0px;
+    padding-bottom:20px;
+    padding-left:0px;
 
-    margin-top:;
-    margin-right:5px;
-    margin-bottom:;
-    margin-left:5px;
-/*
+    margin-top:10px;
+    margin-right:20px;
+    margin-bottom:0px;
+    margin-left:20px;
+    /*
     padding-top:0px;
     padding-right:0px;
     padding-bottom:0px;
-    padding-left:10px;
+    padding-left:0px;
+
     margin-top:0px;
     margin-right:0px;
     margin-bottom:0px;
     margin-left:0px;
+
     */
 }
 
-#name-label{
+.label {
+
+}
+
+.box {
 
 }
 
 #name-box {
     background-color:aqua;
-    width:100%;
 }
 
-#email-label{
 
-}
 
 #email-box {
     background-color:green;
-    width:100%;
 }
 
-#message-label{
 
-}
 
 #message-box {
     background-color:purple;
-    width:100%;
 }
 
 p{
     color:#ffffff;
     margin-bottom:2px;
+    width:100%;
+}
+
+#submit {
+    background-color:#4aaaa5;
+    color:#ffffff;
+    width:100px;
+    font-style:bold;
+
+    padding-top:5px;
+    padding-right:5px;
+    padding-bottom:5px;
+    padding-left:5px;
+
+    margin-top:0px;
+    margin-right:0px;
+    margin-bottom:0px;
+    margin-left:20px;
 }
