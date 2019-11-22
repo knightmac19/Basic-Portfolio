@@ -159,3 +159,7 @@ p{
 #submit:hover{
     background-color:#7cd4d0;
 }
+
+#submit:active{
+    background-color:#06beb5;
+}
