@@ -1,3 +1,15 @@
+a{
+    color:#777777;
+}
+
+a:hover{
+    color:#464444;
+}
+
+a:active{
+    color:#2b2a2a;
+}
+
 body {
     background:url("rockywall.png");
     z-index: 0;

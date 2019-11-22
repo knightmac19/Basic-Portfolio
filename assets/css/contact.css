@@ -3,6 +3,17 @@ html{
     overflow:scroll;
 }
 */
+a{
+    color:#777777;
+}
+
+a:hover{
+    color:#464444;
+}
+
+a:active{
+    color:#2b2a2a;
+}
 
 body {
     background:url("rockywall.png");
@@ -141,4 +152,8 @@ p{
     margin-right:0px;
     margin-bottom:0px;
     margin-left:20px;
+}
+
+#submit:hover{
+    background-color:#7cd4d0;
 }
