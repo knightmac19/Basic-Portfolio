@@ -28,6 +28,8 @@
     left:12.5%;
     bottom:0px;
 
+    line-height:40px;
+
     border-style:none;
 
     padding-top:5px;
@@ -54,6 +56,8 @@
     right:12.5%;
     bottom:0px;
 
+    line-height:40px;
+
     padding-top:0px;
     padding-right:0px;
     padding-bottom:15px;
@@ -68,19 +72,37 @@
 }
 
 #about-link {
-    margin-right:2.5px;
+    margin-right:0px;
     opacity:0.7;
+    padding-right:5px;
+    
+    border-style:solid;
+    border-color:#777777;
+    border-top:0px;
+    border-right:;
+    border-bottom:0px;
+    border-left:0px;
+    
 
 }
 
 #portfolio-link {
-    margin-right:2.5px;
-    margin-left:2.5px;
+    margin-right:0px;
+    margin-left:0px;
     opacity:0.7;
+    padding-right:5px;
+
+    border-style:solid;
+    border-color:#777777;
+    border-top:0px;
+    border-right:;
+    border-bottom:0px;
+    border-left:0px;
 }
 
 #contact-link {
-    margin-left:2.5px;
+    margin-left:0px;
     opacity:0.7;
+    padding-left:0px;
 
 }
