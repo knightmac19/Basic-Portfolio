@@ -84,7 +84,7 @@ h2 {
     margin-bottom:0px;
     margin-left:20px;
     
-    width:143px;
+    width:169px;
     height:130px;
   
     background-color:green;
@@ -101,7 +101,7 @@ h2 {
 
 }
 
-.label1{
+.label{
     position:absolute;
     bottom:10px;
     height:20px;
@@ -112,6 +112,9 @@ h2 {
     text-align:center;
     padding-top:5px;
     padding-bottom:5px;
+
+    font-size:14;
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
 /* ********Style for picture 2***************** */
@@ -131,7 +134,7 @@ h2 {
     margin-bottom:0px;
     margin-left:20px;
     
-    width:143px;
+    width:169px;
     height:130px;
   
     background-color:green;
@@ -174,11 +177,11 @@ h2 {
     padding-left:0px;
 
     margin-top:10px;
-    margin-right:410px;
+    margin-right:200px;
     margin-bottom:0px;
     margin-left:20px;
     
-    width:143px;
+    width:169px;
     height:130px;
   
     background-color:green;
@@ -187,7 +190,7 @@ h2 {
 #nature1{
     position:absolute;
     top:0;
-    right:0;
+    right:0; 
     z-index:inherit 2;
     height:100%;
     width:100%;
@@ -222,7 +225,7 @@ h2 {
     margin-bottom:0px;
     margin-left:20px;
     
-    width:143px;
+    width:169px;
     height:130px;
   
     background-color:green;
@@ -268,7 +271,7 @@ h2 {
     margin-bottom:0px;
     margin-left:20px;
     
-    width:143px;
+    width:169px;
     height:130px;
   
     background-color:green;
