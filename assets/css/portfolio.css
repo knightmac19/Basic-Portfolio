@@ -65,20 +65,233 @@ h2 {
     
 }
 
-.image {
-    width:100%;
+/* ********Style for picture 1***************** */
+
+#container1{
+    position:relative;
+    float:left;
+    z-index:1;
+
+    padding-top:0px;
+    padding-right:0px;
+    padding-bottom:0px;
+    padding-left:0px;
+
+    margin-top:10px;
+    margin-right:20px;
+    margin-bottom:0px;
+    margin-left:20px;
+    
+    width:143px;
+    height:130px;
+  
+    background-color:green;
+}
+
+
+#bicycle-people1{
+    position:absolute;
+    top:0;
+    right:0;
+    z-index:inherit 2;
     height:100%;
-}
-
-.photo-label{
+    width:100%;
 
 }
 
-.photos{
-    height:100px;
-    width:133px;
+.label1{
+    position:absolute;
+    bottom:10px;
+    height:20px;
+    width:100%;
+    z-index:inherit 4;
+    background-color:#4aaaa5;
+    color:#ffffff;
+    text-align:center;
+    padding-top:5px;
+    padding-bottom:5px;
 }
 
-#hangman{
+/* ********Style for picture 2***************** */
 
+#container2{
+    position:relative;
+    float:left;
+    z-index:1;
+
+    padding-top:0px;
+    padding-right:0px;
+    padding-bottom:0px;
+    padding-left:0px;
+
+    margin-top:10px;
+    margin-right:20px;
+    margin-bottom:0px;
+    margin-left:20px;
+    
+    width:143px;
+    height:130px;
+  
+    background-color:green;
+}
+
+
+#sydney{
+    position:absolute;
+    top:0;
+    right:0;
+    z-index:inherit 2;
+    height:100%;
+    width:100%;
+
+}
+
+.label2{
+    position:absolute;
+    bottom:10px;
+    height:20px;
+    width:100%;
+    z-index:inherit 4;
+    background-color:#4aaaa5;
+    color:#ffffff;
+    text-align:center;
+    padding-top:5px;
+    padding-bottom:5px;
+}
+
+/* ********Style for picture 3***************** */
+
+#container3{
+    position:relative;
+    float:left;
+    z-index:1;
+
+    padding-top:0px;
+    padding-right:0px;
+    padding-bottom:0px;
+    padding-left:0px;
+
+    margin-top:10px;
+    margin-right:410px;
+    margin-bottom:0px;
+    margin-left:20px;
+    
+    width:143px;
+    height:130px;
+  
+    background-color:green;
+}
+
+#nature1{
+    position:absolute;
+    top:0;
+    right:0;
+    z-index:inherit 2;
+    height:100%;
+    width:100%;
+}
+
+.label3{
+    position:absolute;
+    bottom:10px;
+    height:20px;
+    width:100%;
+    z-index:inherit 4;
+    background-color:#4aaaa5;
+    color:#ffffff;
+    text-align:center;
+    padding-top:5px;
+    padding-bottom:5px;
+}
+
+/* ********Style for picture 4***************** */
+#container4{
+    position:relative;
+    float:left;
+    z-index:1;
+
+    padding-top:0px;
+    padding-right:0px;
+    padding-bottom:0px;
+    padding-left:0px;
+
+    margin-top:20px;
+    margin-right:20px;
+    margin-bottom:0px;
+    margin-left:20px;
+    
+    width:143px;
+    height:130px;
+  
+    background-color:green;
+}
+
+
+#bicycle-racer{
+    position:absolute;
+    top:0;
+    right:0;
+    z-index:inherit 2;
+    height:100%;
+    width:100%;
+
+}
+
+.label4{
+    position:absolute;
+    bottom:10px;
+    height:20px;
+    width:100%;
+    z-index:inherit 4;
+    background-color:#4aaaa5;
+    color:#ffffff;
+    text-align:center;
+    padding-top:5px;
+    padding-bottom:5px;
+}
+
+/* ********Style for picture 5***************** */
+#container5{
+    position:relative;
+    float:left;
+    z-index:1;
+
+    padding-top:0px;
+    padding-right:0px;
+    padding-bottom:0px;
+    padding-left:0px;
+
+    margin-top:20px;
+    margin-right:20px;
+    margin-bottom:0px;
+    margin-left:20px;
+    
+    width:143px;
+    height:130px;
+  
+    background-color:green;
+}
+
+
+#brandenburg-tor{
+    position:absolute;
+    top:0;
+    right:0;
+    z-index:inherit 2;
+    height:100%;
+    width:100%;
+
+}
+
+.label5{
+    position:absolute;
+    bottom:10px;
+    height:20px;
+    width:100%;
+    z-index:inherit 4;
+    background-color:#4aaaa5;
+    color:#ffffff;
+    text-align:center;
+    padding-top:5px;
+    padding-bottom:5px;
 }
