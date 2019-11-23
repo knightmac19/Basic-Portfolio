@@ -39,6 +39,8 @@ body {
    
     position:fixed;
     left:12.5%;
+    overflow:scroll;
+    height:390px;
 
 }
 
@@ -90,7 +92,7 @@ img {
 #paragraph{
     padding-top:0px;
     padding-right:0px;
-    padding-bottom:10px;
+    padding-bottom:0px;
     padding-left:0px;
 
     margin-top:10px;
@@ -100,7 +102,9 @@ img {
 
     background-color:#ffffff;
     font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    
+    color:#777777;
+    font-size:18px;
+    line-height:1.5em;
 }
 
 /*
