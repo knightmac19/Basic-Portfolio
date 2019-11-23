@@ -5,6 +5,7 @@ html{
 */
 a{
     color:#777777;
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
 a:hover{
@@ -67,6 +68,7 @@ h2 {
     margin-bottom:0px;
     margin-left:20px;
     
+    font-family:'Georgia', Times, 'Times New Roman', serif;
     
 }
 
@@ -135,6 +137,7 @@ p{
     color:#ffffff;
     margin-bottom:2px;
     width:100%;
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
 #submit {
@@ -154,6 +157,7 @@ p{
     margin-left:20px;
 
     border:none;
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
 #submit:hover{

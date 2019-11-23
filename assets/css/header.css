@@ -42,6 +42,7 @@
     margin-bottom:0px;
     margin-left:0px;
 
+    font-family:'Georgia', Times, 'Times New Roman', serif;
     /*
     line-height: 43px;
     */
@@ -69,6 +70,8 @@
     margin-left:0px;
     line-height:40px;
     color:#777777;
+
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
 #about-link {
